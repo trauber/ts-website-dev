@@ -1,3 +1,3 @@
 # Temple Sinai Web Site Development Wiki
 
-- [Rewrite Project](rewrite)
+- [Rewrite Project](rewrite.md)
