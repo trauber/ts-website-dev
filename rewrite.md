@@ -1,6 +1,45 @@
 # Web Site Rewrite Project
 
-## Assign all pages to members, different member per page.
+## Menu Assignments Plantuml Wireframe
+
+```plantuml
+@startsalt
+    {
+      {T
+         +<color:orange>About Us
+         ++<color:green>Mission Statement
+         ++<color:green>Contact Us
+         ++<color:green>Who's Who
+         ++<color:green>Committees
+         +<color:green>Judaica
+         +<color:green>Tikkun Olam
+         ++<color:green>Contributions
+         ++<color:green>Mitzvot
+         ++<color:green>Donate
+         +<color:orange>Current Events
+         ++<color:green>Calendar
+         ++<color:green>Stay Connected
+         +<color:orange>Worship
+         ++<color:green>Service Etiquette
+         ++<color:green>Services
+         +<color:orange>Education
+         ++<color:green>Religioius School
+         ++<color:green>Nursery School
+         ++<color:green>Confirmation Class
+         ++<color:green>Adult Education
+         ++<color:green>Library
+         ++<color:green>Ritual
+         +<color:orange>Activities
+         ++<color:green>Sisterhood
+         ++<color:green>Kadima
+         ++<color:green>USY
+         ++<color:green>Men's Club
+         ++<color:green>Other ClubS
+      }
+    }
+@endsalt
+
+```
 
 
 ## Mermaid Gantt
