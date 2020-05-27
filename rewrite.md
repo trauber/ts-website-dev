@@ -1,5 +1,7 @@
 # Web Site Rewrite Project
 
+We're kicking this off at the end of May, beginning of June. We'll assign each page to its appropriate group/person and Rich will update the site pages with the contributed content.
+
 ## Menu Assignments Plantuml Wireframe
 
 
