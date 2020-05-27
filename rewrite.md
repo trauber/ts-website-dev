@@ -4,8 +4,8 @@ We're kicking this off at the end of May, beginning of June. We'll assign each p
 
 ## Menu Assignments Plantuml Wireframe
 
+![](https://www.plantuml.com/plantuml/svg/dLLDRzim3BttLmWOi1rssJaOaWPkWA9TLY1EKUmeoqnCH9OoYlBW3Vlle_CnnEtKsjE1Dc2-H_BHfAu3Q-AWBLyfERyELfxhqukSZv-DjvucdhJRmdHU-CZgCLmud3ss1E2cImm1lLCvQuOQ7AlJvy96WTUjUgzMFa2I8FEEjUbYZ4K-LVv3K6B7XwnhP0OO4B8lHnQ9kXeNZTYqA9csu4fDP_ftcyqdETEEUw9-0Enig-A-5CcI729egqGS1uQXx2MwfdzaU4JTnLAZqJttsMoMSb_ZRXUTUh2wVWNoic64HMHf--YUBP5_Dfu71xlnJaHwkvnJVvuyXGhtQL616ZIW5epV8_0pvXLor5Rz_JqcwaOtMBx55aQIz5DUbD7eJijac1LOtAB765HkAkzjBzvIaq6T17-D583Q_q1AdpT8zI4tbLaTmXZql8nMvkHSN5yYNHIOH7x1WhHaV8d8Ax0MshH4Hz4l8PtgwK6U6yO66I4zn3a61XBLocVz3UcgxtM9zMlJrtT_pByDzbs2assNsLZqq_554lB05T014eOkXCoYsQbR850RJsfTeMnOsLSI-bRlz-3GRSFWhVRxwcYlPHjsjyuV)
 
-![](https://www.plantuml.com/plantuml/svg/XPJTJiCm38NlUOhSSS4R83HjAhlXRnBTD77ffMQrbYRWE9K6ujtnVf10p5qkt4hvP9zpcdIS1LWo1BbmkZxtLP_puukkgnkVGkBhn13NE9giKX6toB-07sBDY77qI3bJYguM4EmmYabMAGhumMRBDbrcftMWITUH26B-B_b0t9K6o8ErFQVDfaGt2z0DAcLQ5L5ZGyxbeq-stziKDH8psQemQrnksckrfrGGC3R09g31RvqgZkW56tFSCd5kwSrkWzoJHpSLUYyeVuIV94zyWEEeQLCyxB8pMpnZe3KbAjdLlaqfcEHJuOoyFOUf_rVYRZ_LLG6o7UYaAK5JFwlnWLOClBKza1G8ziNnGZq9eQsafYp8wginaNjeg0DpUr6_sCSJezwbAfILYSoaHTuZzP7vkZZKiPwvtM_Y6m00)
 
 ## Mermaid Gantt
 
@@ -19,38 +19,40 @@ We're kicking this off at the end of May, beginning of June. We'll assign each p
 ### Plantuml Menu
 
 ```plantuml
+
 @startsalt
     {
       {T
          +<color:orange>About Us
-         ++<color:green>Mission Statement
-         ++<color:green>Contact Us
-         ++<color:green>Who's Who
-         ++<color:green>Committees
-         +<color:green>Judaica
-         +<color:green>Tikkun Olam
-         ++<color:green>Contributions
-         ++<color:green>Mitzvot
-         ++<color:green>Donate
+         ++<color:green>Mission Statement <color:blue>Amy & Rose
+         ++<color:green>Contact Us <color:blue>Amy & Rose
+         ++<color:green>Who's Who <color:blue>Amy & Rose
+         ++<color:green>Committees <color:blue>Amy & Rose
          +<color:orange>Current Events
-         ++<color:green>Calendar
-         ++<color:green>Stay Connected
+         ++<color:green>Calendar <color:#ff0000>Rose: weekly update
+         ++<color:green>Stay Connected <color:blue>Tre
+         +<color:green>Judaica <color:blue>???
+         +<color:green>Tikkun Olam <color:blue>???
+         ++<color:green>Contributions <color:blue>Amy & Rose
+         ++<color:green>Mitzvot <color:blue>???
+         ++<color:green>Donate <color:blue>???
          +<color:orange>Worship
-         ++<color:green>Service Etiquette
-         ++<color:green>Services
+         ++<color:green>Service Etiquette <color:blue>Ritual Committee: David
+         ++<color:green>Services <color:blue>Ritual Committee: David
          +<color:orange>Education
-         ++<color:green>Religioius School
-         ++<color:green>Nursery School
-         ++<color:green>Confirmation Class
-         ++<color:green>Adult Education
-         ++<color:green>Library
-         ++<color:green>Ritual
+         ++<color:green>Religioius School <color:blue>Marcia
+         ++<color:green>Nursery School <color:blue>Marcia
+         ++<color:green>Confirmation Class <color:blue>Marcia
+         ++<color:green>Adult Education <color:blue>Rabbi
+         ++<color:green>Library <color:blue>Shelley
+         ++<color:green>Ritual <color:blue>Davie
          +<color:orange>Activities
-         ++<color:green>Sisterhood
-         ++<color:green>Kadima
-         ++<color:green>USY
-         ++<color:green>Men's Club
-         ++<color:green>Other ClubS
+         ++<color:green>Sisterhood <color:blue>Risa
+         ++<color:green>Kadima <color:blue>???
+         ++<color:green>USY <color:blue>???
+         ++<color:green>Men's Club <color:blue>Rob
+         ++<color:green>Other Clubs <color:blue>???
+         +<color:green>Click Here for This Week's Happenings<color:#ff0000>Rose: weekly update
       }
     }
 @endsalt
