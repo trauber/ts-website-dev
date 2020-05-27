@@ -1,5 +1,5 @@
 |Timetrap ID|Start|End|Note|
-|----:|:----:|:----:|:----|
+|----:|:----|:----|:----|
 |9|2020-04-29 11:49:36 -0400|2020-04-29 12:08:52 -0400|making calendar data searchable|
 |10|2020-04-29 12:55:33 -0400|2020-04-29 13:02:12 -0400|making calendar data searchable|
 |13|2020-05-08 11:37:43 -0400|2020-05-08 11:53:39 -0400|Torah card content and media to Tikkum Olam|
