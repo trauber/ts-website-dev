@@ -2,6 +2,8 @@
 
 We're kicking this off at the end of May, beginning of June. We'll assign each page to its appropriate group/person and Rich will update the site pages with the contributed content.
 
+2020-05-27T11-04:00 - Sent e-mail to Jo for assignment suggestions. Sent my list.
+
 ## Menu Assignments Plantuml Wireframe
 
 ![](https://www.plantuml.com/plantuml/svg/dLLDRzim3BttLmWOi1rssJaOaWPkWA9TLY1EKUmeoqnCH9OoYlBW3Vlle_CnnEtKsjE1Dc2-H_BHfAu3Q-AWBLyfERyELfxhqukSZv-DjvucdhJRmdHU-CZgCLmud3ss1E2cImm1lLCvQuOQ7AlJvy96WTUjUgzMFa2I8FEEjUbYZ4K-LVv3K6B7XwnhP0OO4B8lHnQ9kXeNZTYqA9csu4fDP_ftcyqdETEEUw9-0Enig-A-5CcI729egqGS1uQXx2MwfdzaU4JTnLAZqJttsMoMSb_ZRXUTUh2wVWNoic64HMHf--YUBP5_Dfu71xlnJaHwkvnJVvuyXGhtQL616ZIW5epV8_0pvXLor5Rz_JqcwaOtMBx55aQIz5DUbD7eJijac1LOtAB765HkAkzjBzvIaq6T17-D583Q_q1AdpT8zI4tbLaTmXZql8nMvkHSN5yYNHIOH7x1WhHaV8d8Ax0MshH4Hz4l8PtgwK6U6yO66I4zn3a61XBLocVz3UcgxtM9zMlJrtT_pByDzbs2assNsLZqq_554lB05T014eOkXCoYsQbR850RJsfTeMnOsLSI-bRlz-3GRSFmjVRxwcYlPHrsryuV)
