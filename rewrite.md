@@ -14,6 +14,8 @@
 
 ## Sources
 
+### Plantuml Menu
+
 ```plantuml
 @startsalt
     {
@@ -52,6 +54,8 @@
 @endsalt
 
 ```
+### Mermaid Gantt
+
 ```mermaid
 gantt
     title A Gantt Diagram
