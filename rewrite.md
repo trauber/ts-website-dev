@@ -6,7 +6,7 @@ We're kicking this off at the end of May, beginning of June. We'll assign each p
 
 I'll be using Gantt charts to track progress.
 
-Note:
+Notes:
 
 - Most recent chart appears first.
 - The bottom horizontal axis is a date labeled timeline.
