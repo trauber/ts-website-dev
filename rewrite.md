@@ -29,7 +29,7 @@ We have to assign writers for these new pages:
 
 With a rewrite window of two weeks we are looking at a completion date of June 17, 2020.
 
-![](2020-05-28T17.svg)
+![](2020-05-28T18.svg)
 
 ## Resources
 
