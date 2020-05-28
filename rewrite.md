@@ -4,7 +4,11 @@ We're kicking this off at the end of May, beginning of June. We'll assign each p
 
 2020-05-27T11-04:00 - Sent e-mail to Jo for assignment suggestions. Sent my list.
 
-## Gantt Charts (most recent first)
+I'll be using Gantt charts to track progress.
+
+Note:
+
+- Most recent chart appears first.
 - The bottom horizontal axis is a date labeled timeline.
 - Dark gray tasks are done.
 - Light gray tasks with a blue border are in progress.
