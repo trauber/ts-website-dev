@@ -8,7 +8,11 @@ We're kicking this off at the end of May, beginning of June. We'll assign each p
 
 ## Gantt Charts (most recent first)
 
+- The bottom horizontal axis is labeled with the date.
 - Dark gray tasks are done.
+- Light gray tasks with a blue border are in progress.
+- Dark blue tasks are to be done after tasks in progress
+
 
 ![](2020-05-28T17.svg)
 
