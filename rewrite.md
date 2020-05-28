@@ -8,7 +8,7 @@ We're kicking this off at the end of May, beginning of June. We'll assign each p
 
 ## Gantt Charts (most recent first)
 
-----
+- Dark gray tasks are done.
 
 ![](2020-05-28T17.svg)
 
