@@ -12,6 +12,10 @@ We're kicking this off at the end of May, beginning of June. We'll assign each p
 - Dark gray tasks are done.
 - Light gray tasks with a blue border are in progress.
 - Dark blue tasks are to be done after tasks in progress
+- Red tasks are critical.
+
+----
+
 
 
 ![](2020-05-28T17.svg)
