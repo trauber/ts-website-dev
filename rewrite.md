@@ -24,6 +24,7 @@ I'm still not clear who has been assigned the following pages:
 - Facility Rental
 - Mitzvah Gallery
 
+With a rewrite window of two weeks we are looking at a completion date of June 17, 2020.
 
 ![](2020-05-28T17.svg)
 
