@@ -27,12 +27,13 @@ We have to fix the menu order for these:
 - Tikkun Olam
 - Social Action
 
+**Is the current "Tikkun Olam" page what will become the "Social Action" page?**
 
 We have to assign writers and find menu spots for these new pages:
 - Facility Rentals
 - Mitzvah Gallery
 
-**Is the current "Tikkun Olam" page what will become the "Social Action" page?**
+
 
 
 With a rewrite window of two weeks we are looking at a completion date of June 17, 2020.
