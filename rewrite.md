@@ -4,8 +4,6 @@ We're kicking this off at the end of May, beginning of June. We'll assign each p
 
 2020-05-27T11-04:00 - Sent e-mail to Jo for assignment suggestions. Sent my list.
 
-
-
 ## Gantt Charts (most recent first)
 - The bottom horizontal axis is a date labeled timeline.
 - Dark gray tasks are done.
@@ -23,6 +21,11 @@ I'm still not clear who has been assigned the following pages:
 - Other Clubs
 - Facility Rental
 - Mitzvah Gallery
+
+We have to assign writers for these new pages:
+- Facilities Rental
+- Mitzvah Gallery
+
 
 With a rewrite window of two weeks we are looking at a completion date of June 17, 2020.
 
