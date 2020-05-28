@@ -13,7 +13,7 @@ We're kicking this off at the end of May, beginning of June. We'll assign each p
 - My comments and questions precede each graphic.
 
 
-### May 28, 2020-05-28T18
+### Gantt Chart as of May 28, 2020-05-28T18
 
 I'm still not clear who has been assigned the following pages:
 - Tikkun Olam
