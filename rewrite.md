@@ -7,12 +7,12 @@ We're kicking this off at the end of May, beginning of June. We'll assign each p
 
 
 ## Gantt Charts (most recent first)
-
 - The bottom horizontal axis is a date labeled timeline.
 - Dark gray tasks are done.
 - Light gray tasks with a blue border are in progress.
 - Dark blue tasks are to be done after tasks in progress
 - Red tasks are critical.
+- My comments and questions precede each graphic.
 
 ### May 28, 2020-05-28T17 
 
