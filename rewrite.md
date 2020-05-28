@@ -12,7 +12,7 @@ We're kicking this off at the end of May, beginning of June. We'll assign each p
 - Red tasks are critical.
 - My comments and questions precede each graphic.
 
-### May 28, 2020-05-28T17 
+### May 28, 2020-05-28T18
 
 I'm still not clear who has been assigned the following pages:
 - Tikkun Olam
