@@ -14,8 +14,15 @@ We're kicking this off at the end of May, beginning of June. We'll assign each p
 - Dark blue tasks are to be done after tasks in progress
 - Red tasks are critical.
 
-----
+### May 28, 2020-05-28T17 
 
+I'm still not clear who has been assigned the following pages:
+- Tikkun Olam
+- Mitzvot
+- Social Action
+- Other Clubs
+- Facility Rental
+- Mitzvah Gallery
 
 
 ![](2020-05-28T17.svg)
