@@ -12,6 +12,7 @@ We're kicking this off at the end of May, beginning of June. We'll assign each p
 - Red tasks are critical.
 - My comments and questions precede each graphic.
 
+
 ### May 28, 2020-05-28T18
 
 I'm still not clear who has been assigned the following pages:
@@ -19,12 +20,18 @@ I'm still not clear who has been assigned the following pages:
 - Mitzvot
 - Social Action
 - Other Clubs
-- Facility Rental
-- Mitzvah Gallery
-
-We have to assign writers for these new pages:
 - Facilities Rental
 - Mitzvah Gallery
+
+We have to fix the menu order for these:
+- Tikkun Olam
+- Social Action
+
+
+We have to assign writers and find menu spots for these new pages:
+- Facilities Rental
+- Mitzvah Gallery
+
 
 
 With a rewrite window of two weeks we are looking at a completion date of June 17, 2020.
