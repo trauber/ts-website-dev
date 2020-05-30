@@ -17,11 +17,11 @@ Event images are 1920x1080 pixels
 
 Events and posts must be shared.  Choose appropriate Jewish and non-jewish groups to share with.  These posts have to made one at a time for each individual group.
 
-## Jewish groups as of May 2020:
+### Jewish Facebook groups as of May 2020:
 
 Jewish South Jersey, Jewish Burlington county, Jewish Philadelphia, Cherry Hill Jewish Events, Jewish South Jersey Parents, Jewish Families of Collingswood
 
-## Townships to share with:
+### Facebook Townships to share with:
 
 Cinnaminson, Pennsauken, Delran, Moorestown, Mount Laurel, Riverton, Palmyra, Riverside, Mount Laurel, Cherry Hill
 Some townships have multiple groups and some have shared groups.
