@@ -16,6 +16,17 @@ Notes:
 - Red tasks are critical.
 - My comments and questions precede each graphic.
 
+### Gantt Chart as of May 31, 2020-05-31T12
+
+Did this stuff:
+
+- Commented out Kitchen section on "Mitzvot" page.
+- Removed Kadima and USY pages from activities menu. Unpublished both pages.
+- Commented out Chavura section on "Other Clubs" page.
+
+All questions from last gantt remain open.
+
+![](2020-05-31T12.svg)
 
 ### Gantt Chart as of May 28, 2020-05-28T18
 
