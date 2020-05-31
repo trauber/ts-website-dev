@@ -15,6 +15,7 @@
 
 ## Meta
 
+- [Markdown](https://daringfireball.net/projects/markdown/) - this wiki's syntax
 - [GFM](https://github.github.com/gfm/) - Github Flavored Markdown
 - [Sandbox](sandbox.md) - da plehground
 
