@@ -1,3 +1,3 @@
 # ts-website-dev
 
-Maintained with gollum.
+Maintained with gollum. Start at [Home](home.md).
