@@ -5,7 +5,7 @@
 
 - [Rewrite Project](rewrite.md)
 - [Publicity Info](publicity.md)
-
+- [Technical Notes](technotes.md)
 
 
 ## Administrativa
