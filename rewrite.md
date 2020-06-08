@@ -18,7 +18,10 @@ Notes:
 
 ### Gantt Chart as of June 08, 2020-06-08T12
 
-Given that two pages are done and the rabbi selection is ongoing I'm pushing the timeline out another week. The estimated finish is June 24.
+Given that two pages are done and the rabbi selection is ongoing I'm pushing the timeline out another week. The estimated finish is June 25.
+
+Questions from the first gantt chart are still unanswered.
+
 
 ![](2020-06-08T12.svg)
 
