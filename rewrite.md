@@ -16,6 +16,10 @@ Notes:
 - Red tasks are critical.
 - My comments and questions precede each graphic.
 
+### Gantt Chart as of June 08, 2020-06-08T12
+
+![](2020-06-08T12.svg)
+
 ### Gantt Chart as of May 31, 2020-05-31T12
 
 Did this stuff:
