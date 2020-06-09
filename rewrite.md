@@ -20,7 +20,7 @@ Notes:
 
 Had to redo the chart. I realized that all the "unassigned" pages looked like they're in the process of being assigned; it was hard to visualize where we haven't progressed. *So*... for pages that have a solid blue line of activity from the left side of the page to the right are ones that we haven't made any progress with ... at all. Haven't even been assigned to anyone.
 
-![](2020-06-09T14.pdf)
+![](2020-06-09T14.svg)
 
 
 ### Gantt Chart as of June 08, 2020-06-08T12
