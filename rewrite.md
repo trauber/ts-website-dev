@@ -22,6 +22,11 @@ Notes:
 
 ![](2020-06-12T10.svg)
 
+We now have two iterations of the Men's Club page. I got Rose's rewrite formatted over the last couple of days and uploaded it this morning.
+
+I also added some space between the Sisterhood membership tables.
+
+I think I also put the finishing touches on the css for the unordered lists. Turns out I inadvertently reset all ul's besides 'staritem' to have no styling. I fixed that by adding the 'staritem' class specifier in the reset css.
 
 ### Gantt Chart as of June 09, 2020-06-09T14
 
