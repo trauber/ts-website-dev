@@ -1,5 +1,20 @@
 # Web Site Rewrite Project
 
+## 2020-06-18 A Watershed
+
+It has now become obvious that for some pages a more involved flow is needed. `Assign->Rewrite->Post` won't do for:
+
+- [Mission Statement](mission-statement.md)
+- [Donations](donations.md)
+- [Social Action](social-action.md)
+
+So look for more complexity in Gantt charts from now on. Other pages might need more steps. These are just the ones I'm aware of at the moment. 
+
+I'm thinking about calling a meeting to address just the donations. There's a bunch of stuff to unpack, including tasks we agreed on at the last meeting that seem to have receded in peoples' mindsets.
+
+## 2020-05-27 Kickoff
+
+
 We're kicking this off at the end of May, beginning of June. We'll assign each page to its appropriate group/person and Rich will update the site pages with the contributed content.
 
 2020-05-27T11-04:00 - Sent e-mail to Jo for assignment suggestions. Sent my list.
