@@ -33,6 +33,16 @@ Notes:
 
 ----
 
+### Gantt Chart as of June 19, 2020-06-19T14
+
+So, yeah I just got around to incorporating info from the first publicity into the chart. It turns out we havew some critical work to do for pages with forms: assess and evaluate Rakefet. We need to know to what extent we are going to use Rakefet's features, especially accepting credit card payments (contributions, donations, selling scrip).
+
+This needs to happen preferably *before* any work on accepting payments on the site gets done.
+
+![](2020-06-19T14.svg)
+
+
+
 ### Gantt Chart as of June 12, 2020-06-12T10
 
 
